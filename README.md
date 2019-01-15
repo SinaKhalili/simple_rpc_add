@@ -1,2 +1,5 @@
-# simple_rpc_add
+# simple rpc add
+
 Simple remote procedure call
+
+Adds two numbers together
